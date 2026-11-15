@@ -1,0 +1,1 @@
+pathToRom equs "rom.gen"
